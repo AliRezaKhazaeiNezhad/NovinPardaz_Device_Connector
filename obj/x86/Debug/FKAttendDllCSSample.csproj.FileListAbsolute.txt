@@ -1,0 +1,236 @@
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\bin\x86\Debug\FK623AttendDllCSSample.exe.config
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\bin\x86\Debug\FK623AttendDllCSSample.exe
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\bin\x86\Debug\FK623AttendDllCSSample.pdb
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\bin\x86\Debug\Newtonsoft.Json.dll
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\bin\x86\Debug\Interop.AXIMAGELib.dll
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\bin\x86\Debug\AxInterop.AXIMAGELib.dll
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\Interop.AXIMAGELib.dll
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\AxInterop.AXIMAGELib.dll
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.ResolveComReference.cache
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmDoorTimeHS.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmPassTimeHS.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmPhotoManage.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmAdjust.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmBellInfo.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmEnroll.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmLog.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmMain.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmNetInfo.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmPasstimeInfo.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmPostShiftInfo.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmProductData.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmSelectFKFirmwareVer.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmSystemInfo.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.frmUserInfo.resources
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.GenerateResource.Cache
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FK623AttendDllCSSample.exe
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FK623AttendDllCSSample.pdb
+F:\CS_FKAttend\FKAttend_SDK\Develop\run\FK623AttendDllCSSample.exe.config
+F:\CS_FKAttend\FKAttend_SDK\Develop\run\FK623AttendDllCSSample.exe
+F:\CS_FKAttend\FKAttend_SDK\Develop\run\FK623AttendDllCSSample.pdb
+F:\CS_FKAttend\FKAttend_SDK\Samples\HaoShun_FKAttend_dll_sample\excel_shift\c#\obj\x86\Debug\FKAttendDllCSSample.csprojResolveAssemblyReference.cache
+M:\Develop\run\FK623AttendDllCSSample.exe.config
+M:\Develop\run\FK623AttendDllCSSample.exe
+M:\Develop\run\FK623AttendDllCSSample.pdb
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.csprojAssemblyReference.cache
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\Interop.AXIMAGELib.dll
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\AxInterop.AXIMAGELib.dll
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.csproj.ResolveComReference.cache
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmDoorTimeHS.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmPassTimeHS.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmPhotoManage.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmAdjust.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmBellInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmEnroll.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmLog.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmMain.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmNetInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmPasstimeInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmPostShiftInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmProductData.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmSelectFKFirmwareVer.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmSystemInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.frmUserInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.csproj.GenerateResource.cache
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.csproj.CoreCompileInputs.cache
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FKAttendDllCSSample.csproj.CopyComplete
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FK623AttendDllCSSample.exe
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\x86\Debug\FK623AttendDllCSSample.pdb
+M:\run\Debug\FK623AttendDllCSSample.exe.config
+M:\run\Debug\FK623AttendDllCSSample.exe
+M:\run\Debug\FK623AttendDllCSSample.pdb
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\bin\x86\Debug\FK623AttendDllCSSample.exe.config
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\bin\x86\Debug\FK623AttendDllCSSample.exe
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\bin\x86\Debug\FK623AttendDllCSSample.pdb
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\bin\x86\Debug\ADODB.dll
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\bin\x86\Debug\Newtonsoft.Json.dll
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\bin\x86\Debug\Interop.AXIMAGELib.dll
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\bin\x86\Debug\AxInterop.AXIMAGELib.dll
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.csprojAssemblyReference.cache
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\Interop.AXIMAGELib.dll
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\AxInterop.AXIMAGELib.dll
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.csproj.ResolveComReference.cache
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmDoorTimeHS.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmPassTimeHS.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmPhotoManage.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmAdjust.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmBellInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmEnroll.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmLog.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmMain.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmNetInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmPasstimeInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmPostShiftInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmProductData.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmSelectFKFirmwareVer.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmSystemInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.frmUserInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.csproj.GenerateResource.cache
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.csproj.CoreCompileInputs.cache
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FKAttendDllCSSample.csproj.CopyComplete
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FK623AttendDllCSSample.exe
+M:\接口源码维护\20181211 CS PC控制设备\20181204 SDK\Samples\obj\x86\Debug\FK623AttendDllCSSample.pdb
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\FK623AttendDllCSSample.exe.config
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\FK623AttendDllCSSample.exe
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\FK623AttendDllCSSample.pdb
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\ADODB.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\Newtonsoft.Json.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\Interop.AXIMAGELib.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\AxInterop.AXIMAGELib.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csprojAssemblyReference.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\Interop.AXIMAGELib.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\AxInterop.AXIMAGELib.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.ResolveComReference.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmDoorTimeHS.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmPassTimeHS.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmPhotoManage.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmAdjust.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmBellInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmEnroll.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmLog.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmMain.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmNetInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmPasstimeInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmPostShiftInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmProductData.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmSelectFKFirmwareVer.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmSystemInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmUserInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.GenerateResource.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.CoreCompileInputs.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.CopyComplete
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FK623AttendDllCSSample.exe
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FK623AttendDllCSSample.pdb
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\FK623AttendDllCSSample.exe.config
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\FK623AttendDllCSSample.exe
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\FK623AttendDllCSSample.pdb
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\ADODB.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\Newtonsoft.Json.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\Interop.AXIMAGELib.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\bin\x86\Debug\AxInterop.AXIMAGELib.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csprojAssemblyReference.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\Interop.AXIMAGELib.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\AxInterop.AXIMAGELib.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.ResolveComReference.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmDoorTimeHS.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmPassTimeHS.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmPhotoManage.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmAdjust.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmBellInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmEnroll.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmLog.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmMain.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmNetInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmPasstimeInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmPostShiftInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmProductData.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmSelectFKFirmwareVer.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmSystemInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.frmUserInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.GenerateResource.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.CoreCompileInputs.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.CopyComplete
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FK623AttendDllCSSample.exe
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FK623AttendDllCSSample.pdb
+\\192.168.1.11\e\_حضور و غیاب\_HySoon\SDK\SDK2019-05-16\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csprojAssemblyReference.cache
+\\192.168.1.11\e\_حضور و غیاب\_HySoon\SDK\SDK2019-05-16\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\Interop.AXIMAGELib.dll
+\\192.168.1.11\e\_حضور و غیاب\_HySoon\SDK\SDK2019-05-16\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\AxInterop.AXIMAGELib.dll
+\\192.168.1.11\e\_حضور و غیاب\_HySoon\SDK\SDK2019-05-16\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.ResolveComReference.cache
+\\192.168.1.11\e\_حضور و غیاب\_HySoon\SDK\SDK2019-05-16\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FK623AttendDllCSSample.exe
+\\192.168.1.11\e\_حضور و غیاب\_HySoon\SDK\SDK2019-05-16\20181227 HSSDK\Samples\FK623Attend\c#\obj\x86\Debug\FK623AttendDllCSSample.pdb
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.AssemblyReference.cache
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.ResolveComReference.cache
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmDoorTimeHS.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmPassTimeHS.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmPhotoManage.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmAdjust.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmBellInfo.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmEnroll.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmLog.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmMain.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmNetInfo.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmPasstimeInfo.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmPostShiftInfo.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmProductData.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmSelectFKFirmwareVer.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmSystemInfo.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.frmUserInfo.resources
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.GenerateResource.cache
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.CoreCompileInputs.cache
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FK623AttendDllCSSample.exe
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FK623AttendDllCSSample.pdb
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\bin\x86\Debug\FK623AttendDllCSSample.exe.config
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\bin\x86\Debug\FK623AttendDllCSSample.exe
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\bin\x86\Debug\FK623AttendDllCSSample.pdb
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\bin\x86\Debug\Interop.AXIMAGELib.dll
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\bin\x86\Debug\AxInterop.AXIMAGELib.dll
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\Interop.AXIMAGELib.dll
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\AxInterop.AXIMAGELib.dll
+D:\NovinHozoor\NovinPardaz_SDK\From_Mohades\c#\obj\x86\Debug\FKAttendDllCSSample.csproj.CopyComplete
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\FK623AttendDllCSSample.exe.config
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\FK623AttendDllCSSample.exe
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\FK623AttendDllCSSample.pdb
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\Interop.AXIMAGELib.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\AxInterop.AXIMAGELib.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.csproj.AssemblyReference.cache
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\Interop.AXIMAGELib.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\AxInterop.AXIMAGELib.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.csproj.ResolveComReference.cache
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmDoorTimeHS.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmPassTimeHS.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmPhotoManage.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmAdjust.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmBellInfo.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmEnroll.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmLog.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmMain.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmNetInfo.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmPasstimeInfo.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmPostShiftInfo.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmProductData.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmSelectFKFirmwareVer.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmSystemInfo.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.frmUserInfo.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.csproj.GenerateResource.cache
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.csproj.CoreCompileInputs.cache
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.csproj.CopyComplete
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FK623AttendDllCSSample.exe
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FK623AttendDllCSSample.pdb
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.LegoTimeFormMain.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\fa-IR\FK623AttendDllCSSample.resources.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.BlueTimeForms.BTFormWelcome.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.BlueTimeForms.BTFormWelcome.fa-IR.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\fa-IR\FK623AttendDllCSSample.resources.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\en-US\FK623AttendDllCSSample.resources.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\pl\FK623AttendDllCSSample.resources.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.BlueTimeForms.BTFormWelcome.en-US.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.BlueTimeForms.BTFormWelcome.pl.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\en-US\FK623AttendDllCSSample.resources.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\pl\FK623AttendDllCSSample.resources.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.Properties.Resources.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.BlueTimeForms.BTFormContactUs.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.BlueTimeForms.BTFormEnterance.resources
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\BlueTime.WebEssentials.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\BlueTime.WebEssentials.pdb
+D:\GitHub\TimeAttendace\NovinPardazConnector\bin\x86\Debug\ADODB.dll
+D:\GitHub\TimeAttendace\NovinPardazConnector\obj\x86\Debug\FKAttendDllCSSample.csproj.SuggestedBindingRedirects.cache

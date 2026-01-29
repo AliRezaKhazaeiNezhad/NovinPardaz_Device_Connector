@@ -1,0 +1,61 @@
+M:\接口源码维护\20181211 CS PC控制设备\Samples\bin\Debug\FK623AttendDllCSSample.exe.config
+M:\接口源码维护\20181211 CS PC控制设备\Samples\bin\Debug\FK623AttendDllCSSample.exe
+M:\接口源码维护\20181211 CS PC控制设备\Samples\bin\Debug\FK623AttendDllCSSample.pdb
+M:\接口源码维护\20181211 CS PC控制设备\Samples\bin\Debug\ADODB.dll
+M:\接口源码维护\20181211 CS PC控制设备\Samples\bin\Debug\Newtonsoft.Json.dll
+M:\接口源码维护\20181211 CS PC控制设备\Samples\bin\Debug\Interop.AXIMAGELib.dll
+M:\接口源码维护\20181211 CS PC控制设备\Samples\bin\Debug\AxInterop.AXIMAGELib.dll
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.csprojAssemblyReference.cache
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\Interop.AXIMAGELib.dll
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\AxInterop.AXIMAGELib.dll
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.csproj.ResolveComReference.cache
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmDoorTimeHS.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmPassTimeHS.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmPhotoManage.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmAdjust.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmBellInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmEnroll.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmLog.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmMain.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmNetInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmPasstimeInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmPostShiftInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmProductData.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmSelectFKFirmwareVer.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmSystemInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.frmUserInfo.resources
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.csproj.GenerateResource.cache
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.csproj.CoreCompileInputs.cache
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FKAttendDllCSSample.csproj.CopyComplete
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FK623AttendDllCSSample.exe
+M:\接口源码维护\20181211 CS PC控制设备\Samples\obj\Debug\FK623AttendDllCSSample.pdb
+M:\run\Debug\FK623AttendDllCSSample.exe.config
+M:\run\Debug\FK623AttendDllCSSample.exe
+M:\run\Debug\FK623AttendDllCSSample.pdb
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\run\Debug\FK623AttendDllCSSample.exe.config
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\run\Debug\FK623AttendDllCSSample.exe
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\run\Debug\FK623AttendDllCSSample.pdb
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.csprojAssemblyReference.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\Interop.AXIMAGELib.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\AxInterop.AXIMAGELib.dll
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.csproj.ResolveComReference.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmDoorTimeHS.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmPassTimeHS.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmPhotoManage.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmAdjust.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmBellInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmEnroll.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmLog.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmMain.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmNetInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmPasstimeInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmPostShiftInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmProductData.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmSelectFKFirmwareVer.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmSystemInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.frmUserInfo.resources
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.csproj.GenerateResource.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.csproj.CoreCompileInputs.cache
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FKAttendDllCSSample.csproj.CopyComplete
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FK623AttendDllCSSample.exe
+H:\日常工作文件\浩顺SDK管理\考勤标准SDK\CS\20181218 HSSDK\Samples\FK623Attend\c#\obj\Debug\FK623AttendDllCSSample.pdb
